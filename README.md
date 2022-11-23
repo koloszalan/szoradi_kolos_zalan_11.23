@@ -1,0 +1,1 @@
+# szoradi_kolos_zalan_11.23
