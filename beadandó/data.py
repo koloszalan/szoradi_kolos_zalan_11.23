@@ -1,0 +1,5 @@
+nev=[]
+marka=[]
+akcio=[]
+raktaron=[]
+ar=[]
